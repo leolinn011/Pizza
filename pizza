@@ -60,9 +60,10 @@ const menuPizzas = [
   { nome: "BANANA", ingredientes: "Base, banana em rodelas, açúcar, canela e leite condensado" },
   // 25- DO GORDO (Anteriormente: PRESUNTO PICANTE) - **INGREDIENTES ATUALIZADOS**
   { nome: "DO GORDO", ingredientes: "Chocolate, chocolate branco, doce de leite, Nutella, chocolate kinder, alpino, chocotone, confete e molho especial estilo X ratão" },
-  // 69- JASON PICANTE - 
-  { nome: "JASON PICANTE", ingredientes: "Chocolate gourmet, paçoca, pimenta, tadalafila de 20mg (com link de telegram +18 bônus)" },
+  // 26- PIZZA PREMIUM - 
+  { nome: "PIZZA PREMIUM", ingredientes: "Chocolate gourmet,Folha de ouro, creme especial" },
 ];
+
 
 // O restante do código de desenho e interação (setup, draw, mousePressed, etc.)
 // permanece o mesmo que o código anterior para funcionar corretamente.
